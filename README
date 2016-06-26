@@ -1,3 +1,9 @@
+This is version 3.6.6 of Scintilla. Some local modifications has been made to make clears faster (as targeted for GPUs that can do clears really fast in one operation instead of many small onse)
+
+
+------------------------------
+
+
 README for building of Scintilla and SciTE
 
 Scintilla can be built by itself.
